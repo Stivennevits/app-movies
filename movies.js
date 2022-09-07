@@ -1,7 +1,7 @@
 const movies = [
     {
         id: 1,
-        title: "El conjuro",
+        title: "El rito",
         rating: 9.0,
         awards: 31,
         length: 162,
