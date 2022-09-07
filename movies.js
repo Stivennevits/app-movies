@@ -56,6 +56,15 @@ const movies = [
         length: 142,
         price: 540,
         genre: "suspenso"
+    },
+       {
+        id: 7,
+        title: "Los simpsons",
+        rating: 7.9,
+        awards: 21,
+        length: 142,
+        price: 540,
+        genre: "animación"
     }
 ]
 
