@@ -65,6 +65,15 @@ const movies = [
         length: 142,
         price: 540,
         genre: "animación"
+    },
+    {
+        id: 8,
+        title: "el efecto mariposa",
+        rating: 10,
+        awards: 100,
+        length: 180,
+        price: 900,
+        genre: "suspenso"
     }
 ]
 
